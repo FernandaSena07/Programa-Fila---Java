@@ -1,4 +1,4 @@
-package AtividadeGrafo;
+package ProjetoGrafo;
 
 import java.util.ArrayList;
 

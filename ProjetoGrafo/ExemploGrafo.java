@@ -1,4 +1,4 @@
-package AtividadeGrafo;
+package ProjetoGrafo;
 
 public class ExemploGrafo {
 

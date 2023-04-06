@@ -1,4 +1,4 @@
-package ListaCompras;
+package ProjetoListaCompras;
 
 import java.util.ArrayList; //Importação da classe arrayList
 

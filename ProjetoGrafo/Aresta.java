@@ -1,4 +1,4 @@
-package AtividadeGrafo;
+package ProjetoGrafo;
 
 public class Aresta <TIPO>{
 	private Double peso;

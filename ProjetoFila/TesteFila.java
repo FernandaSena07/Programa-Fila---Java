@@ -1,4 +1,4 @@
-package Projeto_Fila;
+package ProjetoFila;
 
 
 import javax.swing.JOptionPane;
